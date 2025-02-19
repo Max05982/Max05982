@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord und Webseiten
 - 🌱 I’m currently learning Elektrick
 - 💞️ I’m Single
-- 📫 How to reach me Discord
+- 📫 How to reach me Discord https://discord.gg/mdNCc8TUYM
 
 <!---
 Max05982/Max05982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
