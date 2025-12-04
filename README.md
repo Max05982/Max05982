@@ -57,3 +57,5 @@ It helps increase the visibility of the repository and supports further developm
 ---
 
 Thank you for your interest — enjoy using and expanding the project! 😊
+
+<img width="1536" height="465" alt="GitHub open source klein" src="https://github.com/user-attachments/assets/9941c4ef-1211-4387-be04-59da8f7ee3dc" />
