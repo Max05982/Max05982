@@ -40,15 +40,12 @@ Together, we can make this project even better.
 * `examples/` – example implementations
 * `assets/` – images, files, and other resources
 
-> *(If your structure is different, I can update this to match your actual folders.)*
-
 ---
 
 ## 📄 License
 
 This project is released under an **open and free license**.
 You may use all content without limitations.
-*(If you want, I can add a specific license like MIT, Apache 2.0, or GPL.)*
 
 ---
 
