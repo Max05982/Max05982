@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Project
 
 Welcome to this repository!
 This project provides publicly accessible code that can be freely used, modified, and expanded. The goal is to offer developers an open foundation for learning, experimenting, and building new ideas.
